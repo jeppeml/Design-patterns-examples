@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1. InterfacesAndAbstractClasses/1. InterfacesAndAbstractClasses.iml" filepath="$PROJECT_DIR$/1. InterfacesAndAbstractClasses/1. InterfacesAndAbstractClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1.1 CompositeExample/1.1 CompositeExample.iml" filepath="$PROJECT_DIR$/1.1 CompositeExample/1.1 CompositeExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1.2 CompositePatternTree/1.2 CompositePatternTree.iml" filepath="$PROJECT_DIR$/1.2 CompositePatternTree/1.2 CompositePatternTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2. FacadePatternExampleBefore/2. FacadePatternExampleBefore.iml" filepath="$PROJECT_DIR$/2. FacadePatternExampleBefore/2. FacadePatternExampleBefore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2.1 FacadePatternExampleAfter/2.1 FacadePatternExampleAfter.iml" filepath="$PROJECT_DIR$/2.1 FacadePatternExampleAfter/2.1 FacadePatternExampleAfter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3. AClassObserverPattern/3. AClassObserverPattern.iml" filepath="$PROJECT_DIR$/3. AClassObserverPattern/3. AClassObserverPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3.1 DesignPatternObserverExample/3.1 DesignPatternObserverExample.iml" filepath="$PROJECT_DIR$/3.1 DesignPatternObserverExample/3.1 DesignPatternObserverExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4. StrategyPatternExample/4. StrategyPatternExample.iml" filepath="$PROJECT_DIR$/4. StrategyPatternExample/4. StrategyPatternExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5. DesignPatternCommandExample/5. DesignPatternCommandExample.iml" filepath="$PROJECT_DIR$/5. DesignPatternCommandExample/5. DesignPatternCommandExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7. AdaptorPatternExample/7. AdaptorPatternExample.iml" filepath="$PROJECT_DIR$/7. AdaptorPatternExample/7. AdaptorPatternExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8. FactoryWithPrototype/8. FactoryWithPrototype.iml" filepath="$PROJECT_DIR$/8. FactoryWithPrototype/8. FactoryWithPrototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8.1 ProductFactory-2/8.1 ProductFactory-2.iml" filepath="$PROJECT_DIR$/8.1 ProductFactory-2/8.1 ProductFactory-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/9. IteratorExample/9. IteratorExample.iml" filepath="$PROJECT_DIR$/9. IteratorExample/9. IteratorExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AClassPatterns/AClassPatterns.iml" filepath="$PROJECT_DIR$/AClassPatterns/AClassPatterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Design-patterns-examples.iml" filepath="$PROJECT_DIR$/.idea/Design-patterns-examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/X. EXTRAS/X. EXTRAS.iml" filepath="$PROJECT_DIR$/X. EXTRAS/X. EXTRAS.iml" />
+    </modules>
+  </component>
+</project>

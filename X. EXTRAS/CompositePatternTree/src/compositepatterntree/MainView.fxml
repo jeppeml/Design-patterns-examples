@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.canvas.Canvas?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane id="AnchorPane" prefHeight="380.0" prefWidth="773.0" xmlns="http://javafx.com/javafx/8.0.60" xmlns:fx="http://javafx.com/fxml/1" fx:controller="compositepatterntree.MainViewController">
+    <children>
+        <Button layoutX="14.0" layoutY="341.0" onAction="#handleButtonAction" text="Draw tree" />
+      <Canvas fx:id="myCanvas" height="332.0" layoutX="7.0" layoutY="7.0" width="784.0" />
+      <Button layoutX="97.0" layoutY="341.0" onAction="#handleRemoveClick" text="Remove 1 and redraw" />
+    </children>
+</AnchorPane>

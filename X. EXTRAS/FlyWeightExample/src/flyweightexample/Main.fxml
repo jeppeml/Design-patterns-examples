@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane id="AnchorPane" fx:id="mainPane" prefHeight="600.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/8.0.60" xmlns:fx="http://javafx.com/fxml/1" fx:controller="flyweightexample.MainController">
+    <children>
+        <Button fx:id="button" layoutX="126" layoutY="90" onAction="#withFlyClick" text="WithFly" AnchorPane.bottomAnchor="10.0" AnchorPane.rightAnchor="10.0" />
+      <Button fx:id="button1" layoutX="668.0" layoutY="565.0" onAction="#noFlyClick" text="NoFlyw" />
+    </children>
+</AnchorPane>

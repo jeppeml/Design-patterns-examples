@@ -1,0 +1,36 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package aclassfactorymethod;
+
+import java.util.ArrayList;
+
+/**
+ *
+ * @author jeppjleemoritzled
+ */
+public class AClassFactoryMethod {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        long start = System.nanoTime();
+        ArrayList<Product> products = new ArrayList<>();
+        for (int i = 0; i < 150000000; i++) {
+            ProductFactory.createProduct("Millinium Falcon 1.1", 235234, ProductFactory.ProductType.COMPUTER);
+            //products.add(ProductFactory.createProduct("Millinium Falcon 1.1", 235234, ProductFactory.ProductType.COMPUTER));
+            //products.add(ProductFactory.createProduct("Millinium Falcon 2.0", 325232, ProductFactory.ProductType.SPACESHIP));
+        }
+        long end = System.nanoTime();
+        
+        System.out.println("Elapsed : " + ((double)(end-start)/1000000000) + " secs");
+/*
+        for (Product p : products) {
+            System.out.println("Product: " + p.getId() + " " + p.getName() + " " + p.getPrice());
+        }*/
+    }
+
+}

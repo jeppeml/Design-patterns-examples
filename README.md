@@ -15,3 +15,4 @@ Various examples of design patterns for teaching purposes.
 9. Iterator Pattern
 AClassPatterns A collection of patterns
 X. Extras Other design patterns
+10. Template Pattern
